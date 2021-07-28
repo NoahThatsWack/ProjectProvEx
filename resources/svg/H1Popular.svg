@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="63" viewBox="0 0 360 63">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1c1c1c;
+        font-size: 49px;
+        font-family: Sarabun-ExtraBold, Sarabun;
+        font-weight: 800;
+        letter-spacing: -0.018em;
+      }
+    </style>
+  </defs>
+  <text id="POPULAR_CASES" data-name="POPULAR CASES" class="cls-1" transform="translate(0 52)"><tspan x="0" y="0">POPULAR CASES</tspan></text>
+</svg>

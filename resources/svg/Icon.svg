@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="229" height="110" viewBox="0 0 229 110">
+  <defs>
+    <style>
+      .cls-1, .cls-4 {
+        fill: #ef476f;
+      }
+
+      .cls-1 {
+        font-size: 32px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        font-family: Sarabun-ExtraBold, Sarabun;
+        font-weight: 800;
+        letter-spacing: -0.088em;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        font-size: 66px;
+      }
+
+      .cls-3 {
+        fill: #00baff;
+      }
+
+      .cls-3, .cls-4 {
+        mix-blend-mode: lighten;
+        isolation: isolate;
+      }
+    </style>
+  </defs>
+  <g id="Group_2" data-name="Group 2" transform="translate(-57.348 -30.691)">
+    <text id="EXTRAORDINARY" class="cls-1" transform="translate(171.348 133.691)"><tspan x="-110.56" y="0">EXTRAORDINARY</tspan></text>
+    <text id="PROVEN" class="cls-2" transform="translate(171.348 103.691)"><tspan x="-111.21" y="0">PROVEN</tspan></text>
+    <text id="PROVEN-2" data-name="PROVEN" class="cls-3" transform="translate(169.348 106.691)"><tspan x="-111.21" y="0">PROVEN</tspan></text>
+    <text id="PROVEN-3" data-name="PROVEN" class="cls-4" transform="translate(174.348 100.691)"><tspan x="-111.21" y="0">PROVEN</tspan></text>
+  </g>
+</svg>

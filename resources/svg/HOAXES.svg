@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="104" height="36" viewBox="0 0 104 36">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-size: 28px;
+        font-family: Sarabun-Bold, Sarabun;
+        font-weight: 700;
+        letter-spacing: -0.018em;
+      }
+    </style>
+  </defs>
+  <text id="HOAXES" class="cls-1" transform="translate(52 30)"><tspan x="-51.52" y="0">HOAXES</tspan></text>
+</svg>

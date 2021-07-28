@@ -1,0 +1,124 @@
+/* width */
+::-webkit-scrollbar {
+  	width: 6px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  	background: #1C1C1C;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  	background: #E3E3E3;
+  	border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  	background: #9A9A9A;
+}
+
+html, body {
+	margin: 0px;
+	height: 100%;
+	font-family: sarabun;
+}
+
+.header {
+	font-size: 49px;
+}
+
+#header {
+	background-color: #1c1c1c;
+	border: none;
+	display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: flex-start;
+}
+
+#hyperlink {
+    display: inline-flex;
+    gap: 40px;
+    margin-left: auto;
+    margin-right: 10%;
+}
+
+#home {
+	margin: 1% 30% 1% 10%;
+    margin-right: auto;
+}
+
+#bgheader {
+    background-image: url(resources/video/edit1.mp4);
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    width: 100%;
+    height: 700px;
+    flex-direction: column;
+    align-content: flex-end;
+    flex-wrap: wrap;
+}
+
+.bg {
+	background-color: #1c1c1c;
+    width: 100%;
+    height: 1000px;
+}
+
+.bg2 {
+    background-color: #1c1c1c;
+    width: 100%;
+    height: 460px;
+}
+
+#introtext {
+	margin-right: 10%;
+}
+
+#viewpop {
+	display: inline-flex;
+}
+
+#pop {
+	margin-top: 15%;
+}
+
+.pop {
+	margin-left: 10%;
+}
+
+#h1pent {
+	margin-top: 10px;
+}
+
+#cases {
+    display: flex;
+    gap: 1%;
+    align-content: center;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: row;
+    margin-top: 50px;
+}
+
+.caselinks {
+    display: flex;
+    row-gap: 25px;
+    align-items: center;
+    flex-direction: column;
+}
+
+#hoaxes {
+    margin-top: 10%;
+}
+
+.imgpop {
+    width: 80%;
+}
+
+#footer {
+    margin-top: 10%;
+}
