@@ -1,14 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="80" height="36" viewBox="0 0 80 36">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #fff;
-        font-size: 28px;
-        font-family: Sarabun-Bold, Sarabun;
-        font-weight: 700;
-        letter-spacing: -0.018em;
-      }
-    </style>
-  </defs>
-  <text id="HOME" class="cls-1" transform="translate(40 30)"><tspan x="-39.508" y="0">HOME</tspan></text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="36" xmlns:v="https://vecta.io/nano"><defs><style>@font-face{font-family:"Sarabun-Bold";src:url(data:application/font-woff;charset=utf-8;base64,d09GRgABAAAAAAVoAAwAAAAACBQAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAABHUE9TAAABHAAAAF0AAACOd19rM09TLzIAAAF8AAAATwAAAGBgX4n9Y21hcAAAAcwAAABYAAABYgC2BrJnYXNwAAACJAAAAAgAAAAIAAAAEGdseWYAAAIsAAAA0QAAAQiUw4o5aGVhZAAAAwAAAAA2AAAANhlfVaFoaGVhAAADOAAAABsAAAAkBC4CT2htdHgAAANUAAAAGAAAABgOdgFPbG9jYQAAA2wAAAAOAAAADgDMAIJtYXhwAAADfAAAABQAAAAgAAkAHG5hbWUAAAOQAAABxAAAAx5Iu/PYcG9zdAAABVQAAAAUAAAAIP+4ADh4nGNgZGBg4GJwYohhYHZx8wlh0MlJLMljUCjJSMxkEGFgAcoy/P/PwMjAhMRmRGIzMDBnpxblMYggk0BRRjBmAerjANIcQBpimhKDFNg0BrA8IwMrFIPFAFEIEWoAAAB4nGNgYcpk2sPAysDA1MUUwcDA4A2hGeMYjBh1gHwGDgY4YBdAsBmcXbwVGBYwKDD4s+j8l2BgYGVjMldgZJwMkmP8AjSTASjHDADTSgo+AHicY2BgYGaAYBkGRgYQiAHyGMF8FgYHIM3DwMHABGQrMLgyeDD4Mvj//w8UReL9f/h/7//d/7f/3wY1AQ4Y2RgIAkbCShiA9oOdCHQFKzHKBxMAAJQ1EGQAAQAB//8AD3icY2DAARgZXBgYmESZ9jBwMzAIK4rCoQvjxX/7GeX+PWJ0/KfPtKd4QfHhYrj6Aqh6Y0FFQWNBZSCp7DKBkbe//9/nCUx7gHrk/rowav+7ClP/BqieB8gBKmVWZgaSxtKMTG/6JqdN7pu+dy/THqDqOf9SQBjIfswkC9TCIP//G9NkpmMM/AzSDAxieoymJnaMxkZyjKIifIzKdkCumrISm6iImPGPPm/vvsSkXm/v3qSA6OgA/+hof66wRQUFi8IgZFFzcXEzCDMwAAAxaEPpAAAAAAEAAAABAAAx2w1qXw889QgHA+gAAAAA13/duwAAAADXuDRGAB//9gLsAsYAAQAHAAIAAAAAAAB4nGNgZGBg0fkvwcDAbMAAAYwMqIANACvKAYMAArwAZADpAAACOwBEArQARAMwAEQCsgAfAAAABgAMACQAPABYAIQAAHicY2BkYGBgY5BhYGLACgADywAmeJxlUE9L3EAcfbOutgVZeqv0NEIPuwfzR4qIe3JXvCgorHjwUMgmMYnuZkJmIgi9FPpJeuixBz9EKf1UfZPMtnXNEOb93rzf+/0B8BY/IdB9M/4dFnjFqMM99HHj8Abe4ZPDfWyjcXgTu/ji8Bb5bw4P8B4/mCX6bxh9xy+HBQaidLiH1+KzwxvwxFeH+9gRTw5vYiJ+O7yFnd62wwN87H2YquqxLrLcyP0gPJRXeSpnUR3Nm1Je1uoujY08bkyuai2HuTGVPvL9rDB5M/ditfTjKNGqTNJldO+7vJG7J2qRhF4QBOPpyZkcO3bP0qsKFl+ntS5UKTupNOY2aozKi9LI4UPoHYz+T7QdsAEd10VltKeLhafqzL84PccUChUeUaNAhhwGEvsIEOKQ6IpMynuGiIoIc26/ZHzJSOGOb3GbcUzeUKvIa8bD1snQWeMIPk9Gf6to6OExS2FJNqZnQo2ia0K3JeN78s/rjdbiCfUL6kM6Be0Zc44TnLHyeE2791e9PsOKv2Zd23XRdiGfucp2iltm2fkU+y+oMe2ED63y4EV3/yqudtBtQHNau+WKnGamrbjgbXeW8f0Cpzj/A+4Glkt4nGNgZgCD/1sZjBgwARsALMgB8A==) format("woff"); font-weight:bold;font-style:normal;}</style></defs><style><![CDATA[.A{letter-spacing:-0.018em}]]></style><text class="A" fill="#fff" font-size="28" font-family="Sarabun-Bold,Sarabun" font-weight="700"><tspan x="0.492" y="30">HOME</tspan></text></svg>

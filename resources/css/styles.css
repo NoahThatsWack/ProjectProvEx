@@ -26,6 +26,12 @@ html, body {
     scroll-behavior: smooth;
 }
 
+@media (min-width: 1000px) { 
+  body {
+    font-family: 'arial', Fallback, sans-serif; 
+  }
+}
+
 /* Header and top content */
 
 .header {
