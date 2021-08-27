@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="202" height="58.5" viewBox="0 0 202 58.5">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-size: 28px;
+        font-family: Sarabun-Bold, Sarabun;
+        font-weight: 700;
+        letter-spacing: -0.018em;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 5px;
+      }
+    </style>
+  </defs>
+  <g id="readthiscase" transform="translate(-1150 -660)">
+    <text id="READ_THIS_CASE" data-name="READ THIS CASE" class="cls-1" transform="translate(1251 690)"><tspan x="-100.534" y="0">READ THIS CASE</tspan></text>
+    <path id="Path_1" data-name="Path 1" class="cls-2" d="M774.044,958.217l10,10,10-10" transform="translate(466.956 -252.217)"/>
+  </g>
+</svg>

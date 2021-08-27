@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="230" height="224" viewBox="0 0 230 224">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1c1c1c;
+      }
+
+      .cls-2, .cls-4 {
+        fill: #33ca7f;
+      }
+
+      .cls-3, .cls-6 {
+        fill: #ef476f;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        font-size: 169px;
+        font-family: Sarabun-ExtraBold, Sarabun;
+        font-weight: 800;
+        letter-spacing: -0.088em;
+      }
+
+      .cls-3, .cls-4 {
+        mix-blend-mode: lighten;
+        isolation: isolate;
+      }
+
+      .cls-5 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="favicon" transform="translate(-508 474)">
+    <rect id="Rectangle_988" data-name="Rectangle 988" class="cls-1" width="230" height="199" rx="20" transform="translate(508 -454)"/>
+    <path id="Path_104" data-name="Path 104" class="cls-2" d="M20,0H43s-6.61,13.271-4.1,48.17S59.32,104.52,53.052,139.6,25.468,199,20,199h0A20,20,0,0,1,0,179V20A20,20,0,0,1,20,0Z" transform="translate(508 -454)"/>
+    <text id="_" data-name="?" class="cls-3" transform="translate(620 -289)"><tspan x="-40.306" y="0">?</tspan></text>
+    <text id="_2" data-name="?" class="cls-4" transform="translate(627 -294)"><tspan x="-40.306" y="0">?</tspan></text>
+    <text id="_3" data-name="?" class="cls-5" transform="translate(623 -291)"><tspan x="-40.306" y="0">?</tspan></text>
+    <path id="Path_105" data-name="Path 105" class="cls-6" d="M20,0H43S17.08,23.091,11.33,72.841,25.976,199,20,199h0A20,20,0,0,1,0,179V20A20,20,0,0,1,20,0Z" transform="translate(508 -454)"/>
+    <path id="Path_106" data-name="Path 106" class="cls-2" d="M34.375,0h-23s6.61,13.271,4.1,48.17S-4.945,104.52,1.323,139.6,28.907,199,34.375,199h0a20,20,0,0,0,20-20V20A20,20,0,0,0,34.375,0Z" transform="translate(683.625 -454)"/>
+    <path id="Path_107" data-name="Path 107" class="cls-6" d="M23,0H0S25.92,23.091,31.67,72.841,17.024,199,23,199h0a20,20,0,0,0,20-20V20A20,20,0,0,0,23,0Z" transform="translate(695 -454)"/>
+  </g>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="753" height="407" viewBox="0 0 753 407">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ef476f;
+      }
+
+      .cls-1, .cls-2 {
+        mix-blend-mode: screen;
+        isolation: isolate;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.017" y1="0.303" x2="1.214" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ef476f"/>
+      <stop offset="1" stop-color="#782438"/>
+    </linearGradient>
+  </defs>
+  <g id="Sidegraphic" transform="translate(-1167 -1037)">
+    <path id="Path_102" data-name="Path 102" class="cls-1" d="M753,0V407H0L329.028,229.159Z" transform="translate(1167 1037)"/>
+    <path id="Path_103" data-name="Path 103" class="cls-2" d="M753,0V407H320s25.4-42.953,213.65-144.7c55.157-29.813-70.01-30.977-15.172-96.551S753,0,753,0Z" transform="translate(1167 1037)"/>
+  </g>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="194.312" height="32" viewBox="0 0 194.312 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-size: 24px;
+        font-family: Sarabun-Bold, Sarabun;
+        font-weight: 700;
+        letter-spacing: -0.018em;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 5px;
+      }
+    </style>
+  </defs>
+  <g id="Group_6" data-name="Group 6" transform="translate(-201.439 -2044)">
+    <text id="READ_THIS_CASE" data-name="READ THIS CASE" class="cls-1" transform="translate(288.439 2070)"><tspan x="-86.172" y="0">READ THIS CASE</tspan></text>
+    <path id="Path_2" data-name="Path 2" class="cls-2" d="M0,0,8.812,8.812,17.625,0" transform="translate(384.439 2070.401) rotate(-90)"/>
+  </g>
+</svg>

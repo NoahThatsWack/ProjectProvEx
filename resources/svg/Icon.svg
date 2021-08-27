@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="222" height="84" viewBox="0 0 222 84">
+  <defs>
+    <style>
+      .cls-1, .cls-5 {
+        fill: #ef476f;
+      }
+
+      .cls-1 {
+        font-size: 32px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        font-family: Sarabun-ExtraBold, Sarabun;
+        font-weight: 800;
+        letter-spacing: -0.088em;
+      }
+
+      .cls-2 {
+        fill: #2e2e2e;
+        font-size: 16px;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        font-size: 46px;
+      }
+
+      .cls-4 {
+        fill: #33ca7f;
+      }
+
+      .cls-4, .cls-5 {
+        mix-blend-mode: lighten;
+        isolation: isolate;
+      }
+    </style>
+  </defs>
+  <g id="icon" transform="translate(-60.348 -56.691)">
+    <text id="EXTRAORDINARY" class="cls-1" transform="translate(171.348 133.691)"><tspan x="-110.56" y="0">EXTRAORDINARY</tspan></text>
+    <text id="PROJECT" class="cls-2" transform="translate(91.348 107.691)"><tspan x="-29.496" y="0">PROJECT</tspan></text>
+    <text id="PROVEN" class="cls-3" transform="translate(201.348 107.691)"><tspan x="-77.51" y="0">PROVEN</tspan></text>
+    <text id="PROVEN-2" data-name="PROVEN" class="cls-4" transform="translate(204.348 105.691)"><tspan x="-77.51" y="0">PROVEN</tspan></text>
+    <text id="PROVEN-3" data-name="PROVEN" class="cls-5" transform="translate(199.348 109.691)"><tspan x="-77.51" y="0">PROVEN</tspan></text>
+  </g>
+</svg>

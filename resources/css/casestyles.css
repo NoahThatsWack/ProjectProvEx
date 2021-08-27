@@ -1,0 +1,242 @@
+/* width */
+::-webkit-scrollbar {
+  	width: 6px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  	background: #1C1C1C;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  	background: #E3E3E3;
+  	border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  	background: #9A9A9A;
+}
+
+html, body {
+    margin: 0px;
+    height: 100%;
+    font-family: sarabun;
+    scroll-behavior: smooth;
+}
+
+/* Header and top content */
+
+.header {
+	font-size: 49px;
+}
+
+#header {
+	background-color: #1c1c1c;
+	border: none;
+	display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: flex-start;
+}
+
+#hyperlink {
+    display: inline-flex;
+    gap: 40px;
+    margin-left: auto;
+    margin-right: 10%;
+}
+
+#home {
+	margin: 1% 30% 1% 10%;
+    margin-right: auto;
+}
+
+#bgheader {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    width: 100%;
+    height: 1060px;
+    flex-direction: column;
+    align-content: space-between;
+    flex-wrap: wrap;
+    overflow: hidden;
+}
+
+#vid {
+    display: flex;
+    justify-content: center;
+    align-content: flex-start;
+    height: 100%;
+    margin-right: 2%;
+    margin-left: 10%;
+}
+
+video::-webkit-media-controls-current-time-display {
+    font-weight: bolder;
+    color: #EF476F;
+}
+
+/* Background Styles */
+
+.bg0 {
+    margin-top: 10%;
+    width: 100%;
+}
+
+.bg00 {
+    width: 100%;
+}
+
+.bg {
+	background-color: #2e2e2e;
+    width: 100%;
+    min-height: 450px;
+    max-height: 600px;    
+}
+
+.bg1 {
+    background-color: #1c1c1c;
+    width: 100%;
+    height: 407px; 
+}
+
+.bg2 {
+    background-color: #1c1c1c;
+    width: 100%;
+    height: 460px;
+}
+
+/* Element IDs and Classes */
+
+#introtext {
+	margin-right: 10%;
+}
+
+#viewpop {
+	display: inline-flex;
+}
+
+.imgpop {
+    width: 80%;
+}
+
+#tldr {
+    display: flex;
+    margin-top: 10%;
+    flex-direction: row;
+    align-content: center;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.tldr {
+    margin-left: 10%;
+    max-height: 65%;
+}
+
+.tldrgraphic {
+    overflow: hidden;
+    display: inline-flex;
+}
+
+#ATC {
+    display: flex;
+    margin-top: 10%;
+    margin-bottom: 134px;
+    flex-direction: row;
+    align-content: center;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+#OS {
+    display: flex;
+    margin-bottom: 134px;
+    flex-direction: row;
+    align-content: center;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+#ST {
+    display: flex;
+    margin-bottom: 134px;
+    flex-direction: row;
+    align-content: center;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+#BWI {
+    display: flex;
+    margin-bottom: 134px;
+    flex-direction: row;
+    align-content: center;
+    align-items: flex-start;
+    justify-content: space-between;    
+}
+
+#srcs {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    align-content: flex-start;
+    align-items: flex-start;
+}
+
+#srcrow {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10%;
+}
+
+.textright {
+    margin-left: 17.7%;
+    margin-right: 10%;
+    max-width: 32%;
+}
+
+.textleft {
+    margin-right: 17.7%;
+    margin-left: 10%;
+    max-width: 32%;
+}
+
+.imgright {
+    margin-right: 10%;
+    max-width: 32%;
+}
+
+.imgleft {
+    margin-left: 10%;
+    max-width: 32%;
+}
+
+.source1 {
+    margin-top: 28px;
+    margin-bottom: 5px;    
+    color: #FF6663;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+.sources {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: #FF6663;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+/* Foot */
+
+#footer {
+    margin-top: 10%;
+}
+
+.footer {
+    margin-left: 10%;
+}
