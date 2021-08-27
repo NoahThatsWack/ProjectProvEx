@@ -27,21 +27,12 @@ html, body {
 }
 
 @font-face {
-    font-family: "sarabun";
-    src: url("resources/fonts/Sarabun-ExtraBold.svg#Sarabun-ExtraBold");
-    font-weight: bolder;
-}
-
-@font-face {
-    font-family: "sarabun";
-    src: url("resources/fonts/Sarabun-Bold.svg"#Sarabun-Bold);
-    font-weight: bold;
-}
-
-@font-face {
-    font-family: "sarabun";
-    src: url("resources/fonts/Sarabun-Regular.svg#Sarabun-Regular");
+    font-family: 'sarabunregular';
+    src: url('sarabun-regular-webfont.woff2') format('woff2'),
+         url('sarabun-regular-webfont.woff') format('woff');
     font-weight: normal;
+    font-style: normal;
+
 }
 
 /* Header and top content */
