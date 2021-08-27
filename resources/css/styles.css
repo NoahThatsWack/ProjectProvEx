@@ -28,19 +28,19 @@ html, body {
 
 @font-face {
     font-family: "sarabun";
-    src: url("resources/fonts/Sarabun-ExtraBold.ttf");
+    src: url("resources/fonts/Sarabun-ExtraBold.svg");
     font-weight: bolder;
 }
 
 @font-face {
     font-family: "sarabun";
-    src: url("resources/fonts/Sarabun-Bold.ttf");
+    src: url("resources/fonts/Sarabun-Bold.svg");
     font-weight: bold;
 }
 
 @font-face {
     font-family: "sarabun";
-    src: url("resources/fonts/Sarabun.ttf");
+    src: url("resources/fonts/Sarabun-Regular.svg");
     font-weight: normal;
 }
 
