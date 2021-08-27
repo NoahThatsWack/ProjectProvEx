@@ -22,9 +22,13 @@
 html, body {
     margin: 0px;
     height: 100%;
-    font-family: sarabunregular;
+    font-family: 'Sarabun', sans-serif;
     scroll-behavior: smooth;
 }
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Sarabun:wght@400;500;600;800&display=swap" rel="stylesheet">
 
 @font-face {
     font-family: 'sarabunregular';
