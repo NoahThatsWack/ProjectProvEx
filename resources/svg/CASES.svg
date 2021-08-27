@@ -1,14 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="80" height="36" viewBox="0 0 80 36">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #fff;
-        font-size: 28px;
-        font-family: Sarabun-Bold, Sarabun;
-        font-weight: 700;
-        letter-spacing: -0.018em;
-      }
-    </style>
-  </defs>
-  <text id="CASES" class="cls-1" transform="translate(40 30)"><tspan x="-39.508" y="0">CASES</tspan></text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="36" xmlns:v="https://vecta.io/nano"><defs><style>@font-face{font-family:"Sarabun-Bold";src:url(data:application/font-woff;charset=utf-8;base64,d09GRgABAAAAAAXMAAwAAAAACHQAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAABHUE9TAAABHAAAAG4AAACmd1NrHE9TLzIAAAGMAAAATwAAAGBgX4nAY21hcAAAAdwAAABWAAABYgCtA7FnYXNwAAACNAAAAAgAAAAIAAAAEGdseWYAAAI8AAABJQAAAVBFhERqaGVhZAAAA2QAAAA2AAAANhjVVaFoaGVhAAADnAAAABsAAAAkBC4B22htdHgAAAO4AAAAGAAAABgM9ADybG9jYQAAA9AAAAAOAAAADgEEAJRtYXhwAAAD4AAAABQAAAAgAAkAK25hbWUAAAP0AAABxAAAAx5Iu/PYcG9zdAAABbgAAAAUAAAAIP+4ADh4nGNgZGBg4GJwYohhYHZx8wlh0MlJLMljUCjJSMxkEGFgAcoy/P/PwMjAhMRmRGIzMDBnpxblMYggk0BRRjBmAerjANIcQFoBrMuMQQNi1v9H/28wQMH/R2AbmBhYoTYxg/UzAUmQCCMA1nEXQgAAeJxjYGHSYNrDwMrAwNTFFMHAwOANoRnjGIwYdYB8Bg4GOGAXQLAZnF28FRgWMCgwBLPo/JdgYGBlYzJXYGScDJJj/AI0kwEoxwwAvCEKAQB4nGNgYGBmgGAZBkYGEIgB8hjBfBYGByDNw8DBwARkKzA4MjgzuDIE//8PFEXi/X/4/+D/A//3/98ENQEOGNkYCAJGQgqYgO5hQRFhJWzq4AEAhB0QVwAAAAEAAf//AA94nGNgwAGYGPiBRBHTHgZ2Bi4GBlVldmVhY2FldW5Gxp0flad9qv80zS00rKSEac9fl+eMEv9eAPUwMsj//8YUzHSMQZKBgUWP0dTEjtHYSEycXU1ZiU1URMzYyFycj1GZkXGyv//k5JBauSDTtMi4mPAc4yC52lCuiMW5uYsjHKw9AmoryusCPKwdwGa6AN0hCnQHNwODsKIoHLowXvy3n1Hu3yNGx3/6THuKFxQfLgarlwG6gRvoBi0GBjE1dXM5oBPMTE30GNX1mNAcJMcoLsckKgJ00uF6jWDFOE09CyEjS+8wTassV59S6WgjTz0jSScnB08F20JvLgebAHUjLSVJBUUZVQdvI/MQPStjFzsVRREFNXk5Gy9jm2hDBgYApI1HRQAAAAABAAAAAQAA1Cudsl8PPPUIBwPoAAAAANd/3bsAAAAA17g0RgAP//YCcgLGAAEABwACAAAAAAAAeJxjYGRgYNH5L8HAwLSHAQIYGVABGwA5XAIOAAK8AGQA6QAAAoEADwJsAB8COwBEAicAHAAAAAYADAAmAFAAaACoAAB4nGNgZGBgYGPQZmBiwAoABUIANXicZVBPS9xAHH2zrrYFWXqr9DRCD7sH80eKiHtyV7woKKx48FDIJjGJ7mZCZiIIvRT6SXrosQc/RCn9VH2TzLZ1zRDm/d683/v9AfAWPyHQfTP+HRZ4xajDPfRx4/AG3uGTw31so3F4E7v44vAW+W8OD/AeP5gl+m8YfccvhwUGonS4h9fis8Mb8MRXh/vYEU8Ob2Iifju8hZ3etsMDfOx9mKrqsS6y3Mj9IDyUV3kqZ1EdzZtSXtbqLo2NPG5Mrmoth7kxlT7y/awweTP3YrX04yjRqkzSZXTvu7yRuydqkYReEATj6cmZHDt2z9KrChZfp7UuVCk7qTTmNmqMyovSyOFD6B2M/k+0HbABHddFZbSni4Wn6sy/OD3HFAoVHlGjQIYcBhL7CBDikOiKTMp7hoiKCHNuv2R8yUjhjm9xm3FM3lCryGvGw9bJ0FnjCD5PRn+raOjhMUthSTamZ0KNomtCtyXje/LP643W4gn1C+pDOgXtGXOOE5yx8nhNu/dXvT7Dir9mXdt10XYhn7nKdopbZtn5FPsvqDHthA+t8uBFd/8qrnbQbUBzWrvlipxmpq244G13lvH9Aqc4/wPuBpZLeJxjYGYAg/9bGYwYMAEbACzIAfA=) format("woff"); font-weight:bold;font-style:normal;}</style></defs><style><![CDATA[.A{letter-spacing:-0.018em}]]></style><text class="A" fill="#fff" font-size="28" font-family="Sarabun-Bold,Sarabun" font-weight="700"><tspan x="0.492" y="30">CASES</tspan></text></svg>
