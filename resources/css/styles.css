@@ -22,17 +22,11 @@
 html, body {
 	margin: 0px;
 	height: 100%;
-	font-family: sarabunregular;
+	font-family: sarabun;
     scroll-behavior: smooth;
 }
 
-@font-face {
-    font-family: 'sarabunregular';
-    src: url('sarabun-regular-webfont.woff2') format('woff2'),
-         url('sarabun-regular-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
+@import url('https://fonts.googleapis.com/css2?family=Sarabun:wght@400;500;600;800&display=swap');
 
 /* Header and top content */
 
