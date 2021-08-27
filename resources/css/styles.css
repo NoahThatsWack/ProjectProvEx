@@ -26,6 +26,24 @@ html, body {
     scroll-behavior: smooth;
 }
 
+@font-face {
+    font-family: "sarabun";
+    src: url("resources/fonts/Sarabun-ExtraBold.ttf");
+    font-weight: bolder;
+}
+
+@font-face {
+    font-family: "sarabun";
+    src: url("resources/fonts/Sarabun-Bold.ttf");
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "sarabun";
+    src: url("resources/fonts/Sarabun.ttf");
+    font-weight: normal;
+}
+
 /* Header and top content */
 
 .header {
