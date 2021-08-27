@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="104" height="36" xmlns:v="https://vecta.io/nano"><defs><style>@font-face{font-family:"Sarabun-Bold";src:url(data:application/font-woff;charset=utf-8;base64,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) format("woff"); font-weight:bold;font-style:normal;}</style></defs><style><![CDATA[.A{letter-spacing:-0.018em}]]></style><text class="A" fill="#fff" font-size="28" font-family="Sarabun-Bold,Sarabun" font-weight="700"><tspan x="0.48" y="30">HOAXES</tspan></text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="104" height="36" viewBox="0 0 104 36">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-size: 28px;
+        font-family: Sarabun-Bold, Sarabun;
+        font-weight: 700;
+        letter-spacing: -0.018em;
+      }
+    </style>
+  </defs>
+  <text id="HOAXES" class="cls-1" transform="translate(52 30)"><tspan x="-51.52" y="0">HOAXES</tspan></text>
+</svg>
