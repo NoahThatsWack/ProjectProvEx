@@ -257,6 +257,7 @@ video::-webkit-media-controls-current-time-display {
     color: #FFFFFF;
     background: none;
     padding: 16px;
+    padding-bottom: 19px;
     font-size: 28px;
     font-weight: bold;
     font-family: sarabun;
