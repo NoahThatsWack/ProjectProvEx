@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19.593" height="12.297" viewBox="0 0 19.593 12.297">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #1c1c1c;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 5px;
+      }
+    </style>
+  </defs>
+  <path id="chevronup" class="cls-1" d="M774.044,964.478l6.261-6.261,6.261,6.261" transform="translate(-770.509 -955.717)"/>
+</svg>

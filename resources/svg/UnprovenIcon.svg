@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35.258" height="39.177" viewBox="0 0 35.258 39.177">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #ff6663;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <path id="UnprovenIcon" class="cls-1" d="M1547.975-988.688l7.76-6.458,5.461,23.576h-21.09l15.629-35.177,15.629,35.177h-15.629Z" transform="translate(-1538.106 1008.748)"/>
+</svg>

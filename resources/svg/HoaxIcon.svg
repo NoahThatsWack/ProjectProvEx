@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35.258" height="41.412" viewBox="0 0 35.258 41.412">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #ef476f;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <g id="HoaxIcon" transform="translate(-3226.106 540)">
+    <path id="Path_113" data-name="Path 113" class="cls-1" d="M1540.106-971.393l15.458-20,15.8,20-15.8,17.412Z" transform="translate(1688 453.393)"/>
+    <path id="Path_114" data-name="Path 114" class="cls-1" d="M0,20.383,15.8,0,31.258,20.383,15.8,8.587Z" transform="translate(3259.364 -509.617) rotate(180)"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35.258" height="34.354" viewBox="0 0 35.258 34.354">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #33ca7f;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <path id="ProvenIcon" class="cls-1" d="M1540.106-971.393l15.629-20.354,15.629,20.354h-15.629l-15.629-30.354h31.258l-15.629,30.354Z" transform="translate(-1538.106 1003.748)"/>
+</svg>
