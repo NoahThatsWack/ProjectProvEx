@@ -41,9 +41,9 @@ html, body {
 }
 
 #header {
-	background-color: #1c1c1c;
-	border: none;
-	display: flex;
+    background-color: #1c1c1c;
+    border: none;
+    display: flex;
     align-items: center;
     align-content: center;
     justify-content: flex-start;
@@ -52,15 +52,14 @@ html, body {
 #hyperlink {
     display: inline-flex;
     gap: 40px;
-    margin-left: auto;
     margin-right: 10%;
-    align-items: center;    
+    align-items: center;
 }
 
 #home {
-	margin: 1% 30% 1% 10%;
-    margin-right: auto;
+    margin: 1% auto 1% 10%;
 }
+
 
 #bgheader {
     display: flex;

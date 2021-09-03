@@ -101,6 +101,14 @@ html, body {
 
 /* Element IDs and Classes */
 
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin-top: 80px;
+}
+
 #introtext {
 }
 
