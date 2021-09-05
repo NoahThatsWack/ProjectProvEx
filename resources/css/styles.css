@@ -251,6 +251,10 @@ html, body {
 
 /* Footer */
 
+.stay {
+    bottom: 0;
+}
+
 .hiring {
     display: flex;
     align-items: flex-end;
