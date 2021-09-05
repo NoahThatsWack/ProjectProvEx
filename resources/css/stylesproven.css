@@ -251,3 +251,66 @@ html, body {
 .cimg {
     margin-left: 10px;
 }
+
+/* Footer */
+
+.hiring {
+    display: flex;
+    align-items: flex-end;
+    flex-direction: row;
+    margin-left: 10px;
+}
+
+.centertext {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-top: 20px;
+    margin-right: 10%;
+}
+
+.txtstyle {
+    font-family: sarabun;
+    color: #ffffff;
+    margin: 5px;
+}
+
+a.txtstyle {
+    font-family: sarabun;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 24px;
+}
+
+a:hover.txtstyle {
+    font-family: sarabun;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 24px;
+    color: #ED1E79;
+}
+
+h2.txtstyle {
+    font-family: sarabun;
+    font-weight: bold;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 24px;
+    margin-bottom: 28px;
+}
+
+#toes {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    margin-left: 10%;
+}
+
+#project {
+
+}
+
+#research {
+
+}
