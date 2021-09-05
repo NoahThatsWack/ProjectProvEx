@@ -252,7 +252,8 @@ html, body {
 /* Footer */
 
 .stay {
-    bottom: 0;
+    margin-top: 10%;
+    margin-bottom: 30%;
 }
 
 .hiring {
