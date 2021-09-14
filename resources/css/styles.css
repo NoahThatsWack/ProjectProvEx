@@ -271,6 +271,12 @@ html, body {
     margin-right: 10%;
 }
 
+.centertext2 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
 .txtstyle {
     font-family: sarabun;
     color: #ffffff;
@@ -305,7 +311,7 @@ h2.txtstyle {
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
-    align-items: center;
+    align-items: flex-start;
     margin-left: 10%;
 }
 
@@ -315,4 +321,15 @@ h2.txtstyle {
 
 #research {
 
+}
+
+.imgscale {
+    width: 55px;
+    margin-right: 15px;
+}
+
+.imgscale:hover {
+    width: 55px;
+    filter: brightness(0.8);
+    margin-right: 15px;
 }
