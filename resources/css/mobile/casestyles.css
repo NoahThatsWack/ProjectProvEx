@@ -277,7 +277,7 @@ video::-webkit-media-controls-current-time-display {
     display: none;
     position: absolute;
     background-color: #f7f7f7;
-    width: 300px;
+    width: 360px;
     z-index: 1;
 }
 
@@ -285,8 +285,9 @@ video::-webkit-media-controls-current-time-display {
 .dropdown-content a {
     color: #1c1c1c;
     font-family: sarabun;
-    padding: 10px;
+    padding: 15px 10px;
     text-decoration: none;
+    font-size: 22;
     display: flex;
     justify-content: flex-start;
     align-items: center;
