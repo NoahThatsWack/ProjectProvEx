@@ -333,6 +333,6 @@ h2.txtstyle {
 
 .imgscale:hover {
     width: 55px;
-    filter: invert(26%) sepia(91%) saturate(4498%) hue-rotate(320deg) brightness(95%) contrast(96%);
+    filter: invert(26%) sepia(99%) saturate(5118%) hue-rotate(315deg) brightness(99%) contrast(192%);
     margin-right: 15px;
 }
