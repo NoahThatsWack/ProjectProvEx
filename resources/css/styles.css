@@ -333,3 +333,8 @@ h2.txtstyle {
     filter: invert(26%) sepia(99%) saturate(5118%) hue-rotate(315deg) brightness(99%) contrast(192%);
     margin-right: 15px;
 }
+
+.forcebottom {
+    position: absolute;
+    bottom: 0;
+}
