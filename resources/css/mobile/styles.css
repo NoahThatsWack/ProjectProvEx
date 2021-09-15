@@ -202,7 +202,7 @@ html, body {
 .dropdown-content {
     display: none;
     position: absolute;
-    background-color: #ffffff;
+    background-color: #f7f7f7;
     width: 300px;
     z-index: 1;
 }
@@ -227,17 +227,12 @@ html, body {
 /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {
     display: block;
-    border-radius: 0px 10px 10px 10px;
+    border-radius: 10px;
 }
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
 .dropdown:hover .dropbtn {
     color: #ffffff;
-    border: solid;
-    border-bottom: none;
-    border-color: #ffffff;
-    border-width: 2px;
-    border-radius: 10px 10px 0px 0px;
 }
 
 .dimg {
