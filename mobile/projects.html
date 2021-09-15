@@ -2,8 +2,8 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>Hoaxes | Project Proven Extraordinary</title>
-	<link rel="stylesheet" type="text/css" href="../resources/css/styleshoaxes.css">
+	<title>Sub-Projects | Project Proven Extraordinary</title>
+	<link rel="stylesheet" type="text/css" href="../resources/css/mobile/styles.css">
 	<link id="favicon" rel="shortcut icon" type="image/x-icon" href="../resources/svg/favicon.png">
 	<style>
      	input:focus, textarea:focus, select:focus {
@@ -27,53 +27,32 @@
 			<div class="links dropdown">
   				<button class="dropbtn">CASES<img class="cimg" src="../resources/svg/chevrondown.svg" onmouseover="onHover();" onmouseout="offHover();"></button>
    				<div class="dropdown-content">
-      				<a id="pc" href="../provencases/allprovencases"><img class="dimg" src="../resources/svg/ProvenIcon.svg">Proven Extraordinary Cases</a>
-      				<a id="upc" href="../unprovencases/allunprovencases"><img class="dimg" src="../resources/svg/UnprovenIcon.svg">Unproven Extraordinary Cases</a>
-      				<a id="hx" href="../hoaxes/allhoaxes"><img class="dimg" src="../resources/svg/HoaxIcon.svg">Hoaxes</a>
+      				<a href="../provencases/allprovencases"><img class="dimg" src="../resources/svg/ProvenIcon.svg">Proven Extraordinary Cases</a>
+      				<a href="../unprovencases/allunprovencases"><img class="dimg" src="../resources/svg/UnprovenIcon.svg">Unproven Extraordinary Cases</a>
+      				<a href="../hoaxes/allhoaxes"><img class="dimg" src="../resources/svg/HoaxIcon.svg">Hoaxes</a>
     				</div>
   			</div>
-			<a href="../projects">
+			<a href="#">
 				<img src="../resources/svg/projects.svg">
 			</a>
 		</div>
 	</header>
 	<div id="bgheader" class="bg0">
 		<video id="vid" class="video" playsinline autoplay loop muted>
-			<source src="../resources/video/hoaxcropped.mp4" type="video/mp4">
+			<source src="../resources/video/editcropped.mp4" type="video/mp4">
 		</video>
 		<div class="a10">
-			<img id="introtext" src="../resources/svg/PTBF.svg">
+			<img id="introtext" src="../resources/svg/HMP.svg">
 			<br>
-			<a href="#popular">
-				<img id="viewpop" src="../resources/svg/viewhoaxes.svg">
+			<a href="#projects">
+				<img id="viewpop" src="../resources/svg/viewprojects.svg">
 			</a>
 		</div>
 	</div>
-
-	<img class="pop" id="pop" src="../resources/svg/h1popular.svg">	
-	<div id="popular" class="bg">
-		<img class="pop" id="h1pent" src="../resources/svg/h1hoaxes.svg">
-		<div id="cases">
-			<div class="caselinks">
-				<img class="imgpop" src="../resources/svg/theauto.svg">
-				<a href="">
-					<img src="../resources/svg/readcase.svg">
-				</a>
-			</div>
-			<div class="caselinks">
-				<img class="imgpop" src="../resources/svg/thehaiti.svg">
-				<a href="">
-					<img src="../resources/svg/readcase.svg">
-				</a>
-			</div>
-			<div class="caselinks">
-				<img class="imgpop" src="../resources/svg/thealien.svg">
-				<a href="">
-					<img src="../resources/svg/readcase.svg">
-				</a>
-			</div>
-		</div>
+	<div id="projects" class="center">
+		<img src="../resources/svg/404.svg">
 	</div>
+
 	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1634499189934233"
      crossorigin="anonymous"></script>
 <!-- HorResp -->
@@ -116,13 +95,13 @@
 				<a class="txtstyle" href="../unprovencases/allunprovencases">Unproven Extraordinary Cases</a>
 				<a class="txtstyle" href="../hoaxes/allhoaxes">Hoaxes</a>
 				<a class="txtstyle" href="../projects">Projects</a>
-			</div>				
+			</div>	
 		</div>
 	</div>
 <script type="text/javascript">
 	var isMobile = Math.min(window.screen.width, window.screen.height) < 768 || navigator.userAgent.indexOf("Mobi") > -1;
-	var url = 'mobile/hoaxes/allhoaxes';
-	if (isMobile == true)window.location = url;
+	var url = '../projects';
+	if (isMobile == false)window.location = url;
 </script>
 </body>
 </html>

@@ -2,8 +2,8 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>Hoaxes | Project Proven Extraordinary</title>
-	<link rel="stylesheet" type="text/css" href="../resources/css/styleshoaxes.css">
+	<title>Project Proven Extraordinary</title>
+	<link rel="stylesheet" type="text/css" href="../resources/css/mobile/styles.css">
 	<link id="favicon" rel="shortcut icon" type="image/x-icon" href="../resources/svg/favicon.png">
 	<style>
      	input:focus, textarea:focus, select:focus {
@@ -17,9 +17,7 @@
 </head>
 <body>
 	<header id="header">
-		<a id="home" href="../index">
-		<img src="../resources/svg/Icon.svg">
-		</a>
+		<img id="home" src="../resources/svg/Icon.svg">
 		<div id="hyperlink">
 			<a class="links" href="../index">
 				<img src="../resources/svg/home.svg">
@@ -27,31 +25,55 @@
 			<div class="links dropdown">
   				<button class="dropbtn">CASES<img class="cimg" src="../resources/svg/chevrondown.svg" onmouseover="onHover();" onmouseout="offHover();"></button>
    				<div class="dropdown-content">
-      				<a id="pc" href="../provencases/allprovencases"><img class="dimg" src="../resources/svg/ProvenIcon.svg">Proven Extraordinary Cases</a>
-      				<a id="upc" href="../unprovencases/allunprovencases"><img class="dimg" src="../resources/svg/UnprovenIcon.svg">Unproven Extraordinary Cases</a>
-      				<a id="hx" href="../hoaxes/allhoaxes"><img class="dimg" src="../resources/svg/HoaxIcon.svg">Hoaxes</a>
+      				<a href="../provencases/allprovencases"><img class="dimg" src="../resources/svg/ProvenIcon.svg">Proven Extraordinary Cases</a>
+      				<a href="../unprovencases/allunprovencases"><img class="dimg" src="../resources/svg/UnprovenIcon.svg">Unproven Extraordinary Cases</a>
+      				<a href="../hoaxes/allhoaxes"><img class="dimg" src="../resources/svg/HoaxIcon.svg">Hoaxes</a>
     				</div>
   			</div>
-			<a href="../projects">
+			<a href="projects">
 				<img src="../resources/svg/projects.svg">
 			</a>
 		</div>
 	</header>
 	<div id="bgheader" class="bg0">
 		<video id="vid" class="video" playsinline autoplay loop muted>
-			<source src="../resources/video/hoaxcropped.mp4" type="video/mp4">
+			<source src="../resources/video/editcropped.mp4" type="video/mp4">
 		</video>
 		<div class="a10">
-			<img id="introtext" src="../resources/svg/PTBF.svg">
+			<img id="introtext" src="../resources/svg/IntroText.svg">
 			<br>
-			<a href="#popular">
-				<img id="viewpop" src="../resources/svg/viewhoaxes.svg">
+			<a href="#pop">
+				<img id="viewpop" src="../resources/svg/popularcases.svg">
 			</a>
 		</div>
 	</div>
 
-	<img class="pop" id="pop" src="../resources/svg/h1popular.svg">	
+	<img class="pop" id="pop" src="../resources/svg/h1popular.svg">
 	<div id="popular" class="bg">
+		<img class="pop" id="h1pent" src="../resources/svg/h1pentagon.svg">
+		<div id="cases">
+			<div class="caselinks">
+				<img class="imgpop" src="../resources/svg/theflir.svg">
+				<a href="../provencases/case1">
+					<img src="../resources/svg/readcase.svg">
+				</a>
+			</div>
+			<div class="caselinks">
+				<img class="imgpop" src="../resources/svg/thegimbal.svg">
+				<a href="../provencases/case2">
+					<img src="../resources/svg/readcase.svg">
+				</a>
+			</div>
+			<div class="caselinks">
+				<img class="imgpop" src="../resources/svg/thegofast.svg">
+				<a href="../provencases/case3">
+					<img src="../resources/svg/readcase.svg">
+				</a>
+			</div>
+		</div>
+	</div>
+
+	<div id="hoaxes" class="bg">
 		<img class="pop" id="h1pent" src="../resources/svg/h1hoaxes.svg">
 		<div id="cases">
 			<div class="caselinks">
@@ -74,6 +96,7 @@
 			</div>
 		</div>
 	</div>
+
 	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1634499189934233"
      crossorigin="anonymous"></script>
 <!-- HorResp -->
@@ -102,7 +125,7 @@
 					<a class="txtstyle" href="https://www.instagram.com/provenextraordinary/" target="_blank"><img class="imgscale" src="../resources/svg/instagramwhite.svg"></a>
 					<a class="txtstyle" href="https://www.youtube.com/channel/UCLBi1ks_XJyfgRjNKZtx8sQ" target="_blank"><img class="imgscale" src="../resources/svg/youtube.svg"></a>
 				</div>
-			</div>
+			</div>	
 			<div class="centertext" id="project">
 				<h2 class="txtstyle">The Project</h2>
 				<a class="txtstyle" href="../deadlink">About Us</a>
@@ -121,8 +144,8 @@
 	</div>
 <script type="text/javascript">
 	var isMobile = Math.min(window.screen.width, window.screen.height) < 768 || navigator.userAgent.indexOf("Mobi") > -1;
-	var url = 'mobile/hoaxes/allhoaxes';
-	if (isMobile == true)window.location = url;
+	var url = '../index';
+	if (isMobile == false)window.location = url;
 </script>
 </body>
 </html>
