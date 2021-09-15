@@ -277,7 +277,7 @@ video::-webkit-media-controls-current-time-display {
     display: none;
     position: absolute;
     background-color: #f7f7f7;
-    width: 360px;
+    width: 370px;
     z-index: 1;
 }
 
