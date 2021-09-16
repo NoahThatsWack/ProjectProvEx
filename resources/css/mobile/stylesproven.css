@@ -325,12 +325,12 @@ h2.txtstyle {
 }
 
 .imgscale {
-    width: 60px;
+    width: 65px;
     margin-right: 45px;
 }
 
 .imgscale:hover {
-    width: 60px;
+    width: 65px;
     filter: invert(26%) sepia(99%) saturate(5118%) hue-rotate(315deg) brightness(99%) contrast(192%);
     margin-right: 45px;
 }
