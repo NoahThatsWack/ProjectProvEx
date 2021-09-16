@@ -265,6 +265,7 @@ html, body {
     align-items: flex-start;
     margin-top: 20px;
     margin-right: 10%;
+    margin-bottom: 2%;
 }
 
 .centertext2 {
@@ -305,10 +306,11 @@ h2.txtstyle {
 
 #toes {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: flex-start;
     align-items: flex-start;
     margin-left: 10%;
+    margin-right: 10%;
 }
 
 #project {
@@ -330,11 +332,6 @@ h2.txtstyle {
     margin-right: 15px;
 }
 
-.forcebottom {
-    position: absolute;
-    bottom: 0;
-}
-
 #lowerf {
     display: flex;
     flex-direction: row;
@@ -350,4 +347,9 @@ h2.txtstyle {
     border: solid 1px;
     border-radius: 10px;
     border-color: #ffffff;
+}
+
+.forcebottom {
+    position: absolute;
+    bottom: 0;
 }
