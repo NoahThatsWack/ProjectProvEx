@@ -207,7 +207,7 @@ video::-webkit-media-controls-current-time-display {
 
 .textright {
     margin: 10% 10% 0% 10%;
-    max-width: 60%;
+    max-width: 59.5%;
 }
 
 .textleft {
@@ -344,6 +344,7 @@ video::-webkit-media-controls-current-time-display {
     align-items: flex-start;
     margin-top: 20px;
     margin-right: 10%;
+    margin-bottom: 2%;
 }
 
 .centertext2 {
@@ -384,10 +385,11 @@ h2.txtstyle {
 
 #toes {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: flex-start;
     align-items: flex-start;
     margin-left: 10%;
+    margin-right: 10%;
 }
 
 #project {
@@ -407,4 +409,21 @@ h2.txtstyle {
     width: 45px;
     filter: invert(26%) sepia(99%) saturate(5118%) hue-rotate(315deg) brightness(99%) contrast(192%);
     margin-right: 15px;
+}
+
+#lowerf {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin-top: 2%;
+    width: 100%;    
+}
+
+#ftse {
+    width: 100%;
+    margin-top: 2%;
+    border: solid 1px;
+    border-radius: 10px;
+    border-color: #ffffff;
 }

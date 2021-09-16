@@ -334,3 +334,20 @@ h2.txtstyle {
     position: absolute;
     bottom: 0;
 }
+
+#lowerf {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin-top: 2%;
+    width: 100%;    
+}
+
+#ftse {
+    width: 100%;
+    margin-top: 2%;
+    border: solid 1px;
+    border-radius: 10px;
+    border-color: #ffffff;
+}

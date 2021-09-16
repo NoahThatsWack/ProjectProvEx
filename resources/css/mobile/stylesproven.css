@@ -332,3 +332,20 @@ h2.txtstyle {
     filter: invert(26%) sepia(99%) saturate(5118%) hue-rotate(315deg) brightness(99%) contrast(192%);
     margin-right: 15px;
 }
+
+#lowerf {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin-top: 2%;
+    width: 100%;    
+}
+
+#ftse {
+    width: 100%;
+    margin-top: 2%;
+    border: solid 1px;
+    border-radius: 10px;
+    border-color: #ffffff;
+}
