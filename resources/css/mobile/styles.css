@@ -91,7 +91,7 @@ html, body {
 .bg2 {
     background-color: #1c1c1c;
     width: 100%;
-    height: 600px;
+    height: 700px;
 }
 
 .a10 {
@@ -283,14 +283,14 @@ a.txtstyle {
     font-family: sarabun;
     color: #ffffff;
     text-decoration: none;
-    font-size: 24px;
+    font-size: 27px;
 }
 
 a:hover.txtstyle {
     font-family: sarabun;
     color: #ffffff;
     text-decoration: none;
-    font-size: 24px;
+    font-size: 27px;
     color: #ED1E79;
 }
 
@@ -299,7 +299,7 @@ h2.txtstyle {
     font-weight: bold;
     color: #ffffff;
     text-decoration: none;
-    font-size: 24px;
+    font-size: 30px;
     margin-bottom: 28px;
 }
 
@@ -320,12 +320,12 @@ h2.txtstyle {
 }
 
 .imgscale {
-    width: 45px;
+    width: 60px;
     margin-right: 15px;
 }
 
 .imgscale:hover {
-    width: 45px;
+    width: 60px;
     filter: invert(26%) sepia(99%) saturate(5118%) hue-rotate(315deg) brightness(99%) contrast(192%);
     margin-right: 15px;
 }
