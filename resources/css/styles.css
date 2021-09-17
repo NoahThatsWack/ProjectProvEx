@@ -266,7 +266,7 @@ html, body {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    margin-top: 20px;
+    margin-top: 50px;
     margin-right: 10%;
 }
 
@@ -311,7 +311,30 @@ h2.txtstyle {
     flex-direction: row;
     justify-content: flex-start;
     align-items: flex-start;
-    margin-left: 10%;
+    margin: 0% 10% 0px 10%;
+}
+
+#toes2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin: 1.5% 10% 0px 10%;
+}
+
+.seperate {
+    width: 100%;
+    border-radius: 10px;
+    border: 1px solid #ffffff;
+}
+
+#finglets {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    margin-top: 1%;
 }
 
 #project {
@@ -337,3 +360,5 @@ h2.txtstyle {
     position: absolute;
     bottom: 0;
 }
+
+
