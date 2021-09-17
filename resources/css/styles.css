@@ -45,6 +45,7 @@ html, body {
     align-items: center;
     align-content: center;
     justify-content: flex-start;
+    height: 100px;
 }
 
 #hyperlink {
