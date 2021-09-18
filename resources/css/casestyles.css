@@ -248,7 +248,15 @@ video::-webkit-media-controls-current-time-display {
 .source1 {
     margin-top: 28px;
     margin-bottom: 5px;    
-    color: #FF6663;
+    color: #1c1c1c;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+.source1:hover {
+    margin-top: 28px;
+    margin-bottom: 5px;
+    color: #FF2478;
     font-weight: bolder;
     text-decoration: none;
 }
@@ -256,7 +264,15 @@ video::-webkit-media-controls-current-time-display {
 .sources {
     margin-top: 5px;
     margin-bottom: 5px;
-    color: #FF6663;
+    color: #1c1c1c;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+.sources:hover {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: #FF2478;
     font-weight: bolder;
     text-decoration: none;
 }
