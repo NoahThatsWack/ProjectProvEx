@@ -65,7 +65,7 @@ html, body {
 
 .links {
     color: #ffffff;
-    font-size: 28px;
+    font-size: 22px;
     font-family: sarabun;
     font-weight: bold;
     text-decoration: none;
@@ -74,7 +74,7 @@ html, body {
 .links:hover {
     color: #ffffff !important;
         filter: invert(26%) sepia(99%) saturate(5118%) hue-rotate(315deg) brightness(99%) contrast(192%) !important;
-    font-size: 28px;
+    font-size: 22px;
     font-family: sarabun;
     font-weight: bold;
     text-decoration: none;
@@ -206,7 +206,7 @@ html, body {
     background: none;
     padding: 16px;
     padding-bottom: 19px;
-    font-size: 28px;
+    font-size: 22px;
     font-weight: bold;
     font-family: sarabun;
     border: none;
