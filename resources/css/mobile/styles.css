@@ -84,7 +84,7 @@ html, body {
 .bg {
 	background-color: #1c1c1c;
     width: 100%;
-    max-height: 3400px;
+    max-height: 4800px;
     min-height: 800px;
 }
 
@@ -152,7 +152,7 @@ html, body {
 }
 
 .imgpop {
-    width: 100%;
+    width: 150%;
 }
 
 #footer {
