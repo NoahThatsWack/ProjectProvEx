@@ -155,6 +155,10 @@ html, body {
     margin-top: 10%;
 }
 
+#rdcase {
+    width: 100%;
+}
+
 .imgpop {
     width: 150%;
 }
