@@ -128,6 +128,10 @@ video::-webkit-media-controls-current-time-display {
     margin-bottom: 10px;
 }
 
+#viewpop:hover {
+    filter: invert(26%) sepia(99%) saturate(5118%) hue-rotate(315deg) brightness(99%) contrast(192%) !important;    
+}
+
 .imgpop {
     width: 80%;
 }
