@@ -102,7 +102,7 @@ video::-webkit-media-controls-current-time-display {
 	background-color: #2e2e2e;
     width: 100%;
     min-height: 450px;
-    max-height: 600px;    
+    max-height: 700px;    
 }
 
 .bg1 {
@@ -229,7 +229,16 @@ video::-webkit-media-controls-current-time-display {
 .source1 {
     margin-top: 28px;
     margin-bottom: 5px;    
-    color: #FF6663;
+    color: #1c1c1c;
+    font-weight: bolder;
+    font-size: 28px;
+    text-decoration: none;
+}
+
+.source1:hover {
+    margin-top: 28px;
+    margin-bottom: 5px;
+    color: #FF2478;
     font-weight: bolder;
     font-size: 28px;
     text-decoration: none;
@@ -238,11 +247,21 @@ video::-webkit-media-controls-current-time-display {
 .sources {
     margin-top: 5px;
     margin-bottom: 5px;
-    color: #FF6663;
+    color: #1c1c1c;
     font-weight: bolder;
     font-size: 28px;
     text-decoration: none;
 }
+
+.sources:hover {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: #FF2478;
+    font-weight: bolder;
+    font-size: 28px;
+    text-decoration: none;
+}
+
 
 /* Foot */
 
