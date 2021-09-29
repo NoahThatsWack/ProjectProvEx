@@ -119,6 +119,10 @@ html, body {
 
 /* Element IDs and Classes */
 
+#rdcase {
+    width: 100%;
+}
+
 .center {
     display: flex;
     justify-content: center;

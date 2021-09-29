@@ -182,6 +182,10 @@ html, body {
     width: 80%;
 }
 
+#rdcase {
+    width: 100%;
+}
+
 #footer {
     margin-top: 10%;
 }
