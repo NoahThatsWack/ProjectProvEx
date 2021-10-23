@@ -138,6 +138,7 @@ html, body {
 #viewpop2 {
     display: inline-flex;
     margin-top: 38px;
+    z-index: 2;
 }
 
 #viewpop2:hover {
@@ -202,10 +203,8 @@ html, body {
 }
 
 .cotdimg {
-    display: inline-flex;
-    margin-top: 1.5%;
-    margin-bottom: 1.5%;
-    justify-content: flex-end;
+    display: flex;
+    margin-right: 10%;
 }
 
 #hoaxes {
