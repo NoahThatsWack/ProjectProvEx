@@ -162,12 +162,12 @@ html, body {
 
 #cases {
     display: flex;
+    gap: 4%;
     align-content: center;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: row;
     margin-top: 10px;
-    margin-right: 10%;
-    margin-left: 10%;
-    justify-content: space-between;
-    align-items: center;
 }
 
 .caselinks {
