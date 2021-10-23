@@ -138,7 +138,6 @@ html, body {
 #viewpop2 {
     display: inline-flex;
     margin-top: 38px;
-    z-index: 2;
 }
 
 #viewpop2:hover {
@@ -163,12 +162,12 @@ html, body {
 
 #cases {
     display: flex;
-    gap: 4%;
     align-content: center;
-    justify-content: center;
-    align-items: flex-start;
-    flex-direction: row;
     margin-top: 10px;
+    margin-right: 10%;
+    margin-left: 10%;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .caselinks {
@@ -203,8 +202,10 @@ html, body {
 }
 
 .cotdimg {
-    display: flex;
-    margin-right: 10%;
+    display: inline-flex;
+    margin-top: 1.5%;
+    margin-bottom: 1.5%;
+    justify-content: flex-end;
 }
 
 #hoaxes {
