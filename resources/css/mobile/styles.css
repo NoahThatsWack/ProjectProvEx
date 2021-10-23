@@ -121,6 +121,16 @@ html, body {
     filter: invert(26%) sepia(99%) saturate(5118%) hue-rotate(315deg) brightness(99%) contrast(192%) !important;    
 }
 
+#viewpop2 {
+    display: inline-flex;
+    margin-top: 38px;
+    height: 60%;
+}
+
+#viewpop2:hover {
+    filter: invert(26%) sepia(99%) saturate(5118%) hue-rotate(315deg) brightness(99%) contrast(192%) !important;    
+}
+
 #pop {
 	margin-top: 15%;
 }
@@ -130,7 +140,7 @@ html, body {
 }
 
 #h1pent {
-	margin-top: 10px;
+	margin-top: 10%;
 }
 
 #cases {
@@ -140,19 +150,45 @@ html, body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    margin-top: 50px;
+    margin-top: 10px;
 }
 
 .caselinks {
     display: flex;
     row-gap: 25px;
+    margin-top: 50px;
     margin-bottom: 80px;
     align-items: center;
     flex-direction: column;
 }
 
+.caselinks2 {
+    display: flex;
+    row-gap: 25px;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.cotdcontent {
+    width: 100%;
+    height: 660px;
+    display: flex;
+    flex-direction: column;
+    background-color: #2E2E2E;
+    border: 10px;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+.cotdimg {
+    display: flex;
+}
+
 #hoaxes {
-    margin-top: 10%;
 }
 
 #rdcase {
