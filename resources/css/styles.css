@@ -196,7 +196,7 @@ html, body {
 }
 
 #viewpop3:hover {
-    filter: invert(2%) sepia(10%) saturate(243%) hue-rotate(314deg) brightness(10%) contrast(82%) !important;    
+    filter: invert(2%) sepia(10%) saturate(243%) hue-rotate(314deg) brightness(4%) contrast(82%) !important;    
 }
 
 #pop {
