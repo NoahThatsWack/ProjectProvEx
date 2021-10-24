@@ -80,6 +80,12 @@ html, body {
 	margin: 1% auto 1% 10%;
 }
 
+#devblog {
+    display: flex;
+    margin-top: 3%;
+    justify-content: center;
+}
+
 #bgheader {
     display: flex;
     align-items: flex-start;
