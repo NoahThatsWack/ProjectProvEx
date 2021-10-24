@@ -38,6 +38,13 @@ html, body {
 	font-size: 49px;
 }
 
+#devblog {
+    display: flex;
+    margin-top: 3%;
+    height: 270%;
+    justify-content: center;
+}
+
 #header {
 	background-color: #1c1c1c;
 	border: none;

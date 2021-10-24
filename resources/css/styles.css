@@ -98,13 +98,6 @@ html, body {
     overflow: hidden;
 }
 
-#devblog {
-    display: flex;
-    margin-top: 3%;
-    height: 270%;
-    justify-content: center;
-}
-
 /* Background Styles */
 
 .bg0 {
