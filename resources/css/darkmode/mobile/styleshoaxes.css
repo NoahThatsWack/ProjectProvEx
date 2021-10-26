@@ -34,7 +34,7 @@ html, body {
 
 /* Header and top content */
 
-#pc {
+#hx {
     font-weight: bold !important;
 }
 
@@ -49,7 +49,6 @@ html, body {
     align-items: center;
     align-content: center;
     justify-content: flex-start;
-    height: 100px;
 }
 
 #hyperlink {
@@ -62,24 +61,6 @@ html, body {
 .linkbox {
     background-color: ;
 }
-
-.links {
-    color: #ffffff;
-    font-size: 22px;
-    font-family: sarabun;
-    font-weight: bold;
-    text-decoration: none;
-}
-
-.links:hover {
-    color: #ffffff !important;
-        filter: invert(26%) sepia(99%) saturate(5118%) hue-rotate(315deg) brightness(99%) contrast(192%) !important;
-    font-size: 22px;
-    font-family: sarabun;
-    font-weight: bold;
-    text-decoration: none;
-}
-
 
 #home {
 	margin: 1% auto 1% 10%;
@@ -107,14 +88,14 @@ html, body {
 .bg {
 	background-color: #1c1c1c;
     width: 100%;
-    max-height: 1000px;
+    max-height: 4800px;
     min-height: 800px;
 }
 
 .bg2 {
     background-color: #1c1c1c;
     width: 100%;
-    height: 490px;
+    height: 700px;
 }
 
 .a10 {
@@ -161,8 +142,8 @@ html, body {
     gap: 1%;
     align-content: center;
     justify-content: center;
-    align-items: flex-start;
-    flex-direction: row;
+    align-items: center;
+    flex-direction: column;
     margin-top: 10px;
 }
 
@@ -170,7 +151,7 @@ html, body {
     display: flex;
     row-gap: 25px;
     margin-top: 3%;
-    margin-bottom: 10px;
+    margin-bottom: 80px;
     align-items: center;
     flex-direction: column;
 }
@@ -179,8 +160,20 @@ html, body {
     margin-top: 10%;
 }
 
+#rdcase {
+    width: 70%;
+}
+
+.imgpop2 {
+    width: 100%;
+}
+
+.imgpop2:hover {
+    filter: invert(26%) sepia(99%) saturate(5118%) hue-rotate(315deg) brightness(99%) contrast(192%) !important; 
+}
+
 .imgpop {
-    width: 80%;
+    width: 150%;
 }
 
 #footer {
@@ -211,10 +204,13 @@ html, body {
     background: none;
     padding: 16px;
     padding-bottom: 19px;
-    font-size: 22px;
+    font-size: 28px;
     font-weight: bold;
     font-family: sarabun;
-    border: none;
+    border: solid;
+    border-color: #1c1c1c;
+    border-width: 2px;
+    border-radius: 10px;
 }
 
 /* The container <div> - needed to position the dropdown content */
@@ -228,7 +224,7 @@ html, body {
     display: none;
     position: absolute;
     background-color: #f7f7f7;
-    width: 300px;
+    width: 370px;
     z-index: 1;
 }
 
@@ -236,8 +232,9 @@ html, body {
 .dropdown-content a {
     color: #1c1c1c;
     font-family: sarabun;
-    padding: 10px;
+    padding: 15px 10px;
     text-decoration: none;
+    font-size: 22px;
     display: flex;
     justify-content: flex-start;
     align-items: center;
@@ -252,7 +249,7 @@ html, body {
 /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {
     display: block;
-    border-radius: 10px 10px 10px 10px;
+    border-radius: 10px;
 }
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
@@ -286,8 +283,9 @@ html, body {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    margin-top: 50px;
+    margin-top: 20px;
     margin-right: 10%;
+    margin-bottom: 2%;
 }
 
 .centertext2 {
@@ -306,15 +304,15 @@ a.txtstyle {
     font-family: sarabun;
     color: #ffffff;
     text-decoration: none;
-    font-size: 24px;
+    font-size: 27px;
 }
 
 a:hover.txtstyle {
     font-family: sarabun;
     color: #ffffff;
     text-decoration: none;
-    font-size: 24px;
-    color: #FF2478;
+    font-size: 27px;
+    color: #ED1E79;
 }
 
 h2.txtstyle {
@@ -322,39 +320,17 @@ h2.txtstyle {
     font-weight: bold;
     color: #ffffff;
     text-decoration: none;
-    font-size: 24px;
+    font-size: 30px;
     margin-bottom: 28px;
 }
 
 #toes {
     display: flex;
-    flex-direction: row;
-    justify-content: flex-start;
-    align-items: flex-start;
-    margin: 0% 10% 0px 10%;
-}
-
-#toes2 {
-    display: flex;
     flex-direction: column;
     justify-content: flex-start;
     align-items: flex-start;
-    margin: 1.5% 10% 0px 10%;
-}
-
-.seperate {
-    width: 100%;
-    border-radius: 10px;
-    border: 1px solid #ffffff;
-}
-
-#finglets {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: space-between;
-    width: 100%;
-    margin-top: 1%;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
 #project {
@@ -366,12 +342,34 @@ h2.txtstyle {
 }
 
 .imgscale {
-    width: 45px;
-    margin-right: 15px;
+    width: 65px;
+    margin-right: 45px;
 }
 
 .imgscale:hover {
-    width: 45px;
+    width: 65px;
     filter: invert(26%) sepia(99%) saturate(5118%) hue-rotate(315deg) brightness(99%) contrast(192%);
-    margin-right: 15px;
+    margin-right: 45px;
+}
+
+#lowerf {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin-top: 2%;
+    width: 100%;    
+}
+
+#ftse {
+    width: 100%;
+    margin-top: 2%;
+    border: solid 1px;
+    border-radius: 10px;
+    border-color: #ffffff;
+}
+
+.forcebottom {
+    position: absolute;
+    bottom: 0;
 }

@@ -20,32 +20,31 @@
 }
 
 html, body {
-	margin: 0px;
-	height: 100%;
-	font-family: 'Sarabun', sans-serif;
+    background-color: #121212;
+    margin: 0px;
+    height: 100%;
+    font-family: 'Sarabun', sans-serif;
     scroll-behavior: smooth;
 }
 
-@media (min-width: 1000px) { 
-  body {
-    font-family: 'arial', Fallback, sans-serif; 
-  }
+@font-face {
+    font-family: 'sarabunregular';
+    src: url('sarabun-regular-webfont.woff2') format('woff2'),
+         url('sarabun-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
 }
 
 /* Header and top content */
-
-#pc {
-    font-weight: bold !important;
-}
 
 .header {
 	font-size: 49px;
 }
 
 #header {
-	background-color: #1c1c1c;
-	border: none;
-	display: flex;
+    background-color: #1c1c1c;
+    border: none;
+    display: flex;
     align-items: center;
     align-content: center;
     justify-content: flex-start;
@@ -57,10 +56,6 @@ html, body {
     gap: 40px;
     margin-right: 10%;
     align-items: center;
-}
-
-.linkbox {
-    background-color: ;
 }
 
 .links {
@@ -80,127 +75,217 @@ html, body {
     text-decoration: none;
 }
 
-
 #home {
-	margin: 1% auto 1% 10%;
+    margin: 1% auto 1% 10%;
 }
+
 
 #bgheader {
     display: flex;
     align-items: flex-start;
     justify-content: center;
     width: 100%;
-    height: 700px;
+    height: 1060px;
     flex-direction: column;
-    align-content: flex-start;
+    align-content: space-between;
     flex-wrap: wrap;
     overflow: hidden;
-}
-
-/* Background Styles */
-
-.bg0 {
-    width: 100%;
-    height: 1000px;
-}
-
-.bg {
-	background-color: #1c1c1c;
-    width: 100%;
-    max-height: 1000px;
-    min-height: 800px;
-}
-
-.bg2 {
-    background-color: #1c1c1c;
-    width: 100%;
-    height: 490px;
-}
-
-.a10 {
-    margin-left: 10%;
-    margin-bottom: 100px;
-}
-
-/* Element IDs and Classes */
-
-.center {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    align-content: center;
-    margin-top: 80px;
-}
-
-#introtext {
-}
-
-#viewpop {
-	display: inline-flex;
-    margin-top: 28px;
-}
-
-#viewpop:hover {
-    filter: invert(26%) sepia(99%) saturate(5118%) hue-rotate(315deg) brightness(99%) contrast(192%) !important;    
-}
-
-#pop {
-	margin-top: 15%;
-}
-
-.pop {
-	margin-left: 10%;
-}
-
-#h1pent {
-	margin-top: 10px;
-}
-
-#cases {
-    display: flex;
-    gap: 1%;
-    align-content: center;
-    justify-content: center;
-    align-items: flex-start;
-    flex-direction: row;
-    margin-top: 10px;
-}
-
-.caselinks {
-    display: flex;
-    row-gap: 25px;
-    margin-top: 3%;
-    margin-bottom: 10px;
-    align-items: center;
-    flex-direction: column;
-}
-
-#hoaxes {
-    margin-top: 10%;
-}
-
-.imgpop {
-    width: 80%;
-}
-
-#footer {
-    margin-top: 10%;
-}
-
-.video {
-    min-width: 100%;
-    position: absolute;
-    margin-top: 21%;
-    left: 50%;
-    transform: translateX(-50%) translateY(-50%);
-    z-index: -1;
 }
 
 #vid {
     display: flex;
     justify-content: center;
     align-content: flex-start;
-    filter: brightness(0.4);
+    height: 100%;
+    margin-right: 2%;
+    margin-left: 10%;
+}
+
+video::-webkit-media-controls-current-time-display {
+    font-weight: bolder;
+    color: #EF476F;
+}
+
+/* Background Styles */
+
+.bg0 {
+    margin-top: 10%;
+    width: 100%;
+}
+
+.bg00 {
+    width: 100%;
+}
+
+.bg {
+	background-color: #2e2e2e;
+    width: 100%;
+    min-height: 450px;
+    max-height: 600px;    
+}
+
+.bg1 {
+    background-color: #1c1c1c;
+    width: 100%;
+    height: 407px; 
+}
+
+.bg2 {
+    background-color: #1c1c1c;
+    width: 100%;
+    height: 460px;
+}
+
+/* Element IDs and Classes */
+
+#introtext {
+	margin-right: 10%;
+}
+
+#viewpop {
+	display: inline-flex;
+}
+
+#viewpop:hover {
+    filter: invert(26%) sepia(99%) saturate(5118%) hue-rotate(315deg) brightness(99%) contrast(192%) !important;    
+}
+
+.imgpop {
+    width: 80%;
+}
+
+#tldr {
+    display: flex;
+    margin-top: 10%;
+    flex-direction: row;
+    align-content: center;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.tldr {
+    margin-left: 10%;
+    max-height: 65%;
+}
+
+.tldrgraphic {
+    overflow: hidden;
+    display: inline-flex;
+}
+
+#ATC {
+    display: flex;
+    margin-top: 10%;
+    margin-bottom: 134px;
+    flex-direction: row;
+    align-content: center;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+#OS {
+    display: flex;
+    margin-bottom: 134px;
+    flex-direction: row;
+    align-content: center;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+#ST {
+    display: flex;
+    margin-bottom: 134px;
+    flex-direction: row;
+    align-content: center;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+#BWI {
+    display: flex;
+    margin-bottom: 134px;
+    flex-direction: row;
+    align-content: center;
+    align-items: flex-start;
+    justify-content: space-between;    
+}
+
+#srcs {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    align-content: flex-start;
+    align-items: flex-start;
+}
+
+#srcrow {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10%;
+}
+
+.textright {
+    margin-left: 17.7%;
+    margin-right: 10%;
+    max-width: 32%;
+}
+
+.textleft {
+    margin-right: 17.7%;
+    margin-left: 10%;
+    max-width: 32%;
+}
+
+.imgright {
+    margin-right: 10%;
+    max-width: 32%;
+}
+
+.imgleft {
+    margin-left: 10%;
+    max-width: 32%;
+}
+
+.source1 {
+    margin-top: 28px;
+    margin-bottom: 5px;    
+    color: #1c1c1c;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+.source1:hover {
+    margin-top: 28px;
+    margin-bottom: 5px;
+    color: #FF2478;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+.sources {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: #1c1c1c;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+.sources:hover {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: #FF2478;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+/* Foot */
+
+#footer {
+    margin-top: 10%;
+}
+
+.footer {
+    margin-left: 10%;
 }
 
 /* Dropdown */
@@ -267,6 +352,7 @@ html, body {
 .cimg {
     margin-left: 10px;
 }
+
 
 /* Footer */
 
