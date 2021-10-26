@@ -129,7 +129,7 @@ html, body {
     justify-content: center;
     align-items: center;
     align-content: center;
-    margin-top: 80px;
+    margin-top: 10%;
 }
 
 #introtext {
@@ -183,7 +183,7 @@ html, body {
 }
 
 #footer {
-    margin-top: 10%;
+    margin-top: 2%;
 }
 
 .video {
