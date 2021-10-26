@@ -121,6 +121,12 @@ html, body {
     justify-content: center;
 }
 
+#roadmap {
+    display: flex;
+    margin-top: 3%;
+    justify-content: center;
+}
+
 #bgheader {
     display: flex;
     align-items: flex-start;
